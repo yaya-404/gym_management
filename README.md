@@ -190,6 +190,10 @@ docker-compose up -d
 * Member list view
 * Adminer database view
 
+![Member table](assets/WhatsApp%20Image%202025-12-14%20at%2002.50.43_8c231048.jpg)
+![Payment table](assets/WhatsApp%20Image%202025-12-14%20at%2002.51.16_00da6b9c.jpg)
+![ERD](assets/s.png)
+
 ---
 
 ## 9. Conclusion & Future Work
