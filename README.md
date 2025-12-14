@@ -1,5 +1,7 @@
 # Gym Management System (Java Desktop Application)
 
+![Login Page](assets/WhatsApp%20Image%202025-12-14%20at%2002.20.15_66ecd0de.jpg)
+
 ---
 
 ## 1. Title Page
@@ -178,7 +180,10 @@ docker-compose up -d
 
 ## 8. Results / Screenshots
 
-https://github.com/yaya-404/gym_management/blob/master/src/image/e5f45026bff771e5b30c3825490af541.jpg
+![Login Page](assets/WhatsApp%20Image%202025-12-14%20at%2002.20.15_66ecd0de.jpg)
+![Main Window](assets/WhatsApp%20Image%202025-12-14%20at%2002.23.49_8b547819.jpg)
+![Add Member](assets/WhatsApp%20Image%202025-12-14%20at%2002.24.37_78aa49f0.jpg)
+![List Members](assets/WhatsApp%20Image%202025-12-14%20at%2002.25.16_b1d1958c.jpg)
 
 * Main application window
 * Add member form
