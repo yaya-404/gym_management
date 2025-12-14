@@ -178,7 +178,7 @@ docker-compose up -d
 
 ## 8. Results / Screenshots
 
-> *Add screenshots here:*
+https://github.com/yaya-404/gym_management/blob/master/src/image/e5f45026bff771e5b30c3825490af541.jpg
 
 * Main application window
 * Add member form
